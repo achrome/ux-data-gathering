@@ -1,0 +1,15 @@
+{
+  "name": "ux-data-gathering",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ashwin Mukhija <achromatic.rainbow@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "jsonfile": "^4.0.0",
+    "moment": "^2.19.3",
+    "objectid": "^3.2.1",
+    "ramda": "^0.25.0",
+    "remark": "^8.0.0"
+  }
+}
