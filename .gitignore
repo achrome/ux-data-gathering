@@ -166,4 +166,4 @@ typings/
 .env
 
 .vscode
-data.json
+# data.json
